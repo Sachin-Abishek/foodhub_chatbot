@@ -1,6 +1,6 @@
 # FoodHub Customer Support Chatbot (SQL Agent + Guardrails)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<repo-name>/blob/main/SachinAbishek_FoodDeliveryChatbot_Notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Sachin-Abishek/foodhub_chatbot/blob/main/SachinAbishek_FoodDeliveryChatbot_Notebook.ipynb)
 
 An AI-powered customer support chatbot for a food delivery company ("FoodHub"). It connects to an order database through an SQL agent, fetches accurate order details, and turns them into short, polite, customer-friendly replies. Input and output guardrails block misuse and escalate to a human agent when needed.
 
