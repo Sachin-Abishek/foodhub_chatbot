@@ -1,0 +1,4 @@
+langchain==1.4.6
+langchain-core==1.6.12
+langchain-protocol==0.0.19
+numpy==2.1.3
